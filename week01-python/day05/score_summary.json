@@ -1,0 +1,13 @@
+{
+    "math_mean": 86.0,
+    "english_mean": 90.0,
+    "total_mean": 176.0,
+    "average_mean": 88.0,
+    "best_student": {
+        "name": "小美",
+        "math": 95.0,
+        "english": 92.0,
+        "total": 187.0,
+        "average": 93.5
+    }
+}
